@@ -1,0 +1,10 @@
+data/
+outputs/
+checkpoints/
+wandb/
+__pycache__/
+*.pt
+*.safetensors
+.env
+kaggle.json
+.venv/
