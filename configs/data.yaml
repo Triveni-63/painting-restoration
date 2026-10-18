@@ -1,0 +1,7 @@
+# Reference only; the scripts take the same values as CLI arguments
+size: 512
+mode: center      # center | tile
+min_side: 256
+phash_threshold: 4
+split: [0.8, 0.1, 0.1]
+seed: 42

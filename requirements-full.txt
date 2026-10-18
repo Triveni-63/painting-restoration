@@ -1,0 +1,10 @@
+# Later phases (training / eval / app). Install after Phase 1 works.
+# CPU torch locally:  pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+diffusers
+transformers
+peft
+accelerate
+albumentations
+lpips
+torchmetrics
+gradio

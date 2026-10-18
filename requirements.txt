@@ -1,0 +1,9 @@
+# Phase 1 (data) - small, installs fast on CPU
+numpy
+pillow
+imagehash
+pandas
+matplotlib
+tqdm
+scikit-learn
+opencv-python
