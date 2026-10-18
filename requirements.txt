@@ -7,3 +7,5 @@ matplotlib
 tqdm
 scikit-learn
 opencv-python
+# Phase 2 also needs PyTorch (CPU build) - install separately:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
